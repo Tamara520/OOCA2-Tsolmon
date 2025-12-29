@@ -1,1 +1,0 @@
-ooca2.exceptions.InvalidUserCategoryException
