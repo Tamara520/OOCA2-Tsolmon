@@ -36,3 +36,21 @@ This project demonstrates the use of Object-Oriented Programming concepts in Jav
 
 
 
+\## How to Run the Project
+
+
+
+1\. Open the project in NetBeans.
+
+2\. Ensure JDK 17 is selected.
+
+3\. Run the MainApp class.
+
+4\. Console output will demonstrate booking, modification, and cancellation.
+
+
+
+
+
+
+
